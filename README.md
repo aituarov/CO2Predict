@@ -29,9 +29,9 @@ The application consists of several key components:
    - Navigate to the Streamlit app URL: 
     [Green Mobility Tool on Streamlit](https://co2predict-j4pner6xzxtn3uqpmsosqv.streamlit.app/)
 2. **Upload Data**:
-   - Upload an Excel file [Input File]() with the required data format detailing commute information over the desired period.
+   - Upload an Excel [formatted file](input_file.xlsx) with the required data format detailing commute information over the desired period.
 3. **View Predictions**:
-   - The app will display CO2 emission predictions and related trends directly on the dashboard.
+   - The app will display CO2 emission predictions and related trends directly on the dashboard. ![Output Screenshot](result_screenshot.jpg)
 
 
 ## Features
